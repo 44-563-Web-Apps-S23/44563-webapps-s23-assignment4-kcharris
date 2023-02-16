@@ -1,0 +1,23 @@
+.speech{
+    font-size: medium;
+    color: black;
+}
+.direction{
+    font-size:large;
+    color: black;
+    background-color: lightblue;
+}
+.direction:hover {
+    background-color: lightcoral;
+    color: lightgreen;
+}
+.strubel{
+    color: green;
+}
+.frau{
+    color:blue
+}
+.Liddy{
+    color:red;
+}
+
