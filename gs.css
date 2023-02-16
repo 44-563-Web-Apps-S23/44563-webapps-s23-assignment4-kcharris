@@ -20,4 +20,20 @@
 .liddy{
     color:red;
 }
-
+table{
+    border:solid 1px black;
+    border-collapse: collapse;
+}
+tr{
+    border:dashed 2px black;
+}
+td,th{
+    border:solid 1px black;
+    border-collapse: collapse;
+    padding:5px;
+    margin: 5px;
+}
+table{
+    color:teal;
+    text-align: center;
+}
